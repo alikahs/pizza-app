@@ -1,0 +1,24 @@
+[
+	{ 
+		"nama" : "Amanda",
+		"umur" : 19,
+		"nrp" : "173040063",
+		"lulus" : false,
+		"hobi" : ["coding", "makan", "jalan-jalan"],
+		"pembimbing" : {
+			"pembimbing1" : "Pak Sandhika",
+			"pembimbing2" : "Pak Hendra"
+		}
+	},
+	{ 
+		"nama" : "Evi",
+		"umur" : 20,
+		"nrp" : "173040050",
+		"lulus" : false,
+		"hobi" : ["masak", "desain"],
+		"pembimbing" : {
+			"pembimbing1" : "Pak Siroj",
+			"pembimbing2" : "Bu Shanti"
+		}
+	}
+]
